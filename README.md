@@ -1,16 +1,9 @@
-# drop_down_widget
+# Drop Down Button
 
-A new Flutter project.
+100% With Flutter & Dart Without Any Dependencies 👍
 
-## Getting Started
+## UI
 
-This project is a starting point for a Flutter application.
+https://github.com/Shalaby-VBS/Custom_Drop_Down/assets/149938388/432d2103-547f-4f3e-a0ce-95a6f7c65319
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="519" alt="Component Code" src="https://github.com/Shalaby-VBS/Custom_Drop_Down/assets/149938388/8aae55dc-bfc1-41a5-abdc-6b32d72cc9c4">
